@@ -111,7 +111,7 @@ li a.active, li a:hover {
         top: 80px;
         right: -100%;
         display: block;
-        background-color: #25a2c3;
+        background-color: #b136d6;
         padding: 30px 0;
         transition: linear 0.35s;
         z-index: 999;
@@ -488,7 +488,7 @@ li a.active, li a:hover {
 
  /* -------- footer start -----------*/
     .footer-section {
-        background-color: #25a2c3;
+        background-color: #6178f7;
         padding: 100px 20px;
     }
 
